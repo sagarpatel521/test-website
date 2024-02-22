@@ -1,2 +1,2 @@
-example-squadron-repo
-=====================
+sample-website-repo-to-test-github-pages-config
+===============================================
